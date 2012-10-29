@@ -35,7 +35,6 @@ int main(int argc,char **argv)
 		SDL_Delay(1); // 1초 대기
 	}
 
-
 	SDL_Quit(); // SDL종료
 	return 0;
 }
