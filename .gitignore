@@ -1,6 +1,4 @@
-RunnerGame/Debug/
-<<<<<<< HEAD
-=======
+﻿RunnerGame/Debug/
 *.[Oo]bj
 *.user
 *.aps
@@ -20,9 +18,11 @@ RunnerGame/Debug/
 *.lib
 *.sbr
 *.sdf
+*.opensdf
+*.unsuccessfulbuild
 ipch/
 obj/
 [Bb]in
 [Dd]ebug*/
 [Rr]elease*/
->>>>>>> gitignore 수정..
+Ankh.NoLoad
